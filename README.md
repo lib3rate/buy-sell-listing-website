@@ -6,8 +6,6 @@ Front-end: jQuery, EJS, Sass
 
 Back-end: Node, Express, PostgreSQL
 
-LHL Node Skeleton
-
 ## Project Setup
 
 1. Create your own copy of this repo using the `Use This Template` button, ideally using the name of your project. The repo should be marked Public
