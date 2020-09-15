@@ -1,6 +1,6 @@
 # Simple listings
 
-A RESTful website where you can put different types of things up for sale.
+A RESTful website where users can put different types of things up for sale.
 
 Front-end: jQuery, EJS, Sass
 
